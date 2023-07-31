@@ -1,4 +1,4 @@
-# Laravel Auth Spa
+# Laravel Auth SPA
 
 ## 概要
 
