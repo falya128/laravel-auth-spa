@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "falya128/laravel-auth-spa",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Authentication application created with Laravel Fortify and Sanctum.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
